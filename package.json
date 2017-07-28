@@ -3,11 +3,6 @@
   "version": "1.5.10",
   "description": "Accessible, extensible, Autocomplete for React.js",
   "main": "./build/lib/Autocomplete.js",
-  "files": [
-    "build/lib/index.js",
-    "build/lib/Autocomplete.js",
-    "dist"
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/reactjs/react-autocomplete.git"
